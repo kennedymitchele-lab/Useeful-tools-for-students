@@ -38,7 +38,7 @@ How students actually use it
 *1. School projects + presentations*
 - *Slides*: Ditch basic PowerPoint. Canva has animated, modern slide templates. You can add charts, icons, and record yourself presenting right inside it.
 - *Posters + infographics*: Science fair boards, history timelines, book reports. The drag-drop charts and icons make data look good fast.
-- *Video projects*: Edit short videos, add captions, music, and transitions. Way faster than Premiere for a 2-min assignment.
+- *Video projects*: Edit short videos, add captions, music, and transitions. 
 
 *2. Group work*
 - Multiple people can edit the same design at once, like Google Docs but for design. No more emailing files back and forth.
